@@ -13,6 +13,15 @@
 0.0.0.0 arstechnica.com
 0.0.0.0 www.arstechnica.com
 
+# Canadian news
+0.0.0.0 www.cbc.ca
+0.0.0.0 wwww.pembinavalleyonline.com
+0.0.0.0 www.ctvnews.ca
+0.0.0.0 www.globalnews.ca
+0.0.0.0 www.theglobeandmail.com
+0.0.0.0 www.thestar.com
+0.0.0.0 wwww.nationalpost.com
+
 # German news
 0.0.0.0 www.tagesschau.de
 0.0.0.0 www.bild.de
