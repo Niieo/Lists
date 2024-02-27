@@ -1,7 +1,7 @@
 ﻿# This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
 #
-# Host contributed by Toby Bischoff
+# Host contributed Niieo
 # Other news
 0.0.0.0 aljazeera.com
 0.0.0.0 msn.com
@@ -15,12 +15,12 @@
 
 # Canadian news
 0.0.0.0 www.cbc.ca
-0.0.0.0 wwww.pembinavalleyonline.com
+0.0.0.0 www.pembinavalleyonline.com
 0.0.0.0 www.ctvnews.ca
 0.0.0.0 www.globalnews.ca
 0.0.0.0 www.theglobeandmail.com
 0.0.0.0 www.thestar.com
-0.0.0.0 wwww.nationalpost.com
+0.0.0.0 www.nationalpost.com
 
 # German news
 0.0.0.0 www.tagesschau.de
@@ -54,38 +54,6 @@
 0.0.0.0 www.promiflash.de
 0.0.0.0 www.gala.de
 0.0.0.0 www.vip.de
-
-0.0.0.0 tagesschau.de
-0.0.0.0 bild.de
-0.0.0.0 zeit.de
-0.0.0.0 faz.net
-0.0.0.0 fr-online.de
-0.0.0.0 sueddeutsche.de
-0.0.0.0 taz.de
-0.0.0.0 welt.de
-0.0.0.0 spiegel.de
-0.0.0.0 focus.de
-0.0.0.0 stern.de
-0.0.0.0 rp-online.de
-0.0.0.0 express.de
-0.0.0.0 tz.de
-0.0.0.0 n24.de
-0.0.0.0 morgenpost.de
-0.0.0.0 postillion.de
-0.0.0.0 presseportal.de
-0.0.0.0 reuters.com
-0.0.0.0 waz.de
-0.0.0.0 mercer-online.de
-0.0.0.0 ksta.de
-0.0.0.0 abendblatt.de
-0.0.0.0 shortnews.de
-0.0.0.0 handelsblatt.de
-0.0.0.0 deutsche-wirtschafts-nachrichten.de
-0.0.0.0 manager-magazin.de
-0.0.0.0 finanznachrichten.de
-0.0.0.0 promiflash.de
-0.0.0.0 gala.de
-0.0.0.0 vip.de
 
 # UK news
 0.0.0.0 www.bbc.co.uk
