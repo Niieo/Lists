@@ -2,6 +2,11 @@
 # with a dash of crowd sourcing via Github
 #
 # Host contributed Niieo
+# Custom Website List
+0.0.0.0 youtube.ca
+0.0.0.0 youtube.com
+0.0.0.0 reddit.com
+
 # Other news
 0.0.0.0 aljazeera.com
 0.0.0.0 msn.com
