@@ -4,7 +4,9 @@
 # Host contributed Niieo
 # Custom Website List
 0.0.0.0 youtube.ca
+0.0.0.0 m.youtube.ca
 0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
 0.0.0.0 reddit.com
 
 # Other news
