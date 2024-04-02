@@ -7,7 +7,7 @@
 0.0.0.0 m.youtube.ca
 0.0.0.0 youtube.com
 0.0.0.0 m.youtube.com
-0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
 
 # Other news
 0.0.0.0 aljazeera.com
@@ -21,13 +21,13 @@
 0.0.0.0 www.arstechnica.com
 
 # Canadian news
-0.0.0.0 www.cbc.ca
-0.0.0.0 www.pembinavalleyonline.com
-0.0.0.0 www.ctvnews.ca
-0.0.0.0 www.globalnews.ca
-0.0.0.0 www.theglobeandmail.com
-0.0.0.0 www.thestar.com
-0.0.0.0 www.nationalpost.com
+0.0.0.0 cbc.ca
+0.0.0.0 pembinavalleyonline.com
+0.0.0.0 ctvnews.ca
+0.0.0.0 globalnews.ca
+0.0.0.0 theglobeandmail.com
+0.0.0.0 thestar.com
+0.0.0.0 nationalpost.com
 
 # German news
 0.0.0.0 www.tagesschau.de
