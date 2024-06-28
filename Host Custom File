@@ -1,0 +1,8 @@
+﻿# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via Github
+#
+# Host contributed Niieo
+
+# Special Block
+0.0.0.0 youtube.com
+0.0.0.0 reddit.com
