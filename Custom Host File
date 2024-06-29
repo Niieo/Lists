@@ -2,12 +2,12 @@
 # with a dash of crowd sourcing via Github
 #
 # Host contributed Niieo
-#
+
 # Special Block
 0.0.0.0 youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 reddit.com
-#
+
 #Blocking Instagram Domains
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 api.instagram.com
