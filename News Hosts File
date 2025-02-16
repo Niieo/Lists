@@ -2,7 +2,7 @@
 # with a dash of crowd sourcing via Github
 #
 # Host contributed Niieo
-
+#
 # Other news
 0.0.0.0 aljazeera.com
 0.0.0.0 msn.com
@@ -13,7 +13,6 @@
 0.0.0.0 www.slashdot.com
 0.0.0.0 arstechnica.com
 0.0.0.0 www.arstechnica.com
-
 # Canadian news
 0.0.0.0 cbc.ca
 0.0.0.0 pembinavalleyonline.com
@@ -22,7 +21,6 @@
 0.0.0.0 theglobeandmail.com
 0.0.0.0 thestar.com
 0.0.0.0 nationalpost.com
-
 # German news
 0.0.0.0 www.tagesschau.de
 0.0.0.0 www.bild.de
@@ -55,7 +53,6 @@
 0.0.0.0 www.promiflash.de
 0.0.0.0 www.gala.de
 0.0.0.0 www.vip.de
-
 # UK news
 0.0.0.0 www.bbc.co.uk
 0.0.0.0 www.guardian.co.uk
@@ -108,7 +105,6 @@
 0.0.0.0 www.churchnewspaper.com
 0.0.0.0 www.scottishfield.co.uk
 0.0.0.0 www.dailyecho.co.uk
-
 0.0.0.0 bbc.co.uk
 0.0.0.0 guardian.co.uk
 0.0.0.0 guardian.com
@@ -160,7 +156,6 @@
 0.0.0.0 churchnewspaper.com
 0.0.0.0 scottishfield.co.uk
 0.0.0.0 dailyecho.co.uk
-
 # US news
 0.0.0.0 www.marketwatch.com
 0.0.0.0 www.cnbc.com
@@ -291,7 +286,6 @@
 0.0.0.0 www.atlantaintownpaper.com
 0.0.0.0 www.heartlandnewsfeed.com
 0.0.0.0 www.laindependent.com
-
 0.0.0.0 marketwatch.com
 0.0.0.0 bing.com
 0.0.0.0 cbs.com
